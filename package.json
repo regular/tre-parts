@@ -1,0 +1,23 @@
+{
+  "name": "tre-parts",
+  "version": "1.0.0",
+  "description": "an ssb-revisions view for part-of relationships",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regular/tre-parts.git"
+  },
+  "keywords": [],
+  "author": "Jan Bölsche <jan@lagomorph.de> (https://regular.codes/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regular/tre-parts/issues"
+  },
+  "homepage": "https://github.com/regular/tre-parts#readme",
+  "dependencies": {
+    "ssb-review-level": "^3.0.5"
+  }
+}
