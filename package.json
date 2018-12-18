@@ -1,6 +1,6 @@
 {
   "name": "tre-parts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an ssb-revisions view for part-of relationships",
   "main": "index.js",
   "scripts": {
